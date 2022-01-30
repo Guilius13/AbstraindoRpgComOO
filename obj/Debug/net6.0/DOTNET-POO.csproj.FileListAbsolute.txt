@@ -1,0 +1,15 @@
+C:\Users\guilh\OneDrive\Área de Trabalho\GFT\Abstraindo um Jogo de RPG usando orientação a objetos com C#\DOTNET-POO\bin\Debug\net6.0\DOTNET-POO.exe
+C:\Users\guilh\OneDrive\Área de Trabalho\GFT\Abstraindo um Jogo de RPG usando orientação a objetos com C#\DOTNET-POO\bin\Debug\net6.0\DOTNET-POO.deps.json
+C:\Users\guilh\OneDrive\Área de Trabalho\GFT\Abstraindo um Jogo de RPG usando orientação a objetos com C#\DOTNET-POO\bin\Debug\net6.0\DOTNET-POO.runtimeconfig.json
+C:\Users\guilh\OneDrive\Área de Trabalho\GFT\Abstraindo um Jogo de RPG usando orientação a objetos com C#\DOTNET-POO\bin\Debug\net6.0\DOTNET-POO.dll
+C:\Users\guilh\OneDrive\Área de Trabalho\GFT\Abstraindo um Jogo de RPG usando orientação a objetos com C#\DOTNET-POO\bin\Debug\net6.0\ref\DOTNET-POO.dll
+C:\Users\guilh\OneDrive\Área de Trabalho\GFT\Abstraindo um Jogo de RPG usando orientação a objetos com C#\DOTNET-POO\bin\Debug\net6.0\DOTNET-POO.pdb
+C:\Users\guilh\OneDrive\Área de Trabalho\GFT\Abstraindo um Jogo de RPG usando orientação a objetos com C#\DOTNET-POO\obj\Debug\net6.0\DOTNET-POO.csproj.AssemblyReference.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\GFT\Abstraindo um Jogo de RPG usando orientação a objetos com C#\DOTNET-POO\obj\Debug\net6.0\DOTNET-POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\OneDrive\Área de Trabalho\GFT\Abstraindo um Jogo de RPG usando orientação a objetos com C#\DOTNET-POO\obj\Debug\net6.0\DOTNET-POO.AssemblyInfoInputs.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\GFT\Abstraindo um Jogo de RPG usando orientação a objetos com C#\DOTNET-POO\obj\Debug\net6.0\DOTNET-POO.AssemblyInfo.cs
+C:\Users\guilh\OneDrive\Área de Trabalho\GFT\Abstraindo um Jogo de RPG usando orientação a objetos com C#\DOTNET-POO\obj\Debug\net6.0\DOTNET-POO.csproj.CoreCompileInputs.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\GFT\Abstraindo um Jogo de RPG usando orientação a objetos com C#\DOTNET-POO\obj\Debug\net6.0\DOTNET-POO.dll
+C:\Users\guilh\OneDrive\Área de Trabalho\GFT\Abstraindo um Jogo de RPG usando orientação a objetos com C#\DOTNET-POO\obj\Debug\net6.0\ref\DOTNET-POO.dll
+C:\Users\guilh\OneDrive\Área de Trabalho\GFT\Abstraindo um Jogo de RPG usando orientação a objetos com C#\DOTNET-POO\obj\Debug\net6.0\DOTNET-POO.pdb
+C:\Users\guilh\OneDrive\Área de Trabalho\GFT\Abstraindo um Jogo de RPG usando orientação a objetos com C#\DOTNET-POO\obj\Debug\net6.0\DOTNET-POO.genruntimeconfig.cache
